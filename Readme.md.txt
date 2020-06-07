@@ -1,0 +1,1 @@
+Yogasans is a android(Kotlin) app used to keep the track of duration of yoga poses performed by individual.
